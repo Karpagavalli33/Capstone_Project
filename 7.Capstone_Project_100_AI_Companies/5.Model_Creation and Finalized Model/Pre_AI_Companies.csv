@@ -1,0 +1,101 @@
+Company Name,Description,Headquarters,Founded,Annual Revenue,Glassdoor Score
+Alibaba Cloud,Best for Big Data Analytics, China,2009.0,479.5,3.75
+DataRobot,Best for Automated Machine Learning, Massachusetts,2012.0,338.2,3.75
+Google,Best for AI Development, California,1998.0,305600.0,4.45
+Hugging Face,Best for Deploying AI Models in the Cloud, New York,2016.0,40.0,4.35
+H2O.ai,Best for Time Series Forecasting, California,2011.0,69.2,3.15
+Rasa,Best for Managing Conversational AI Applications, California,2016.0,18.8,3.95
+Replicate,Best for Scalability and Cost-Effectiveness, California,2019.0,1.2,3.9456521739130435
+ActiveCampaign,Best for Email and Marketing Automation, Illinois,2003.0,195.0,3.75
+ClickUp,Best for Project Management, California,2017.0,158.7,3.45
+Freshworks,Best for Intelligent Customer Engagement, India,2010.0,596.4,3.85
+HubSpot,Best for Scaling Businesses, Massachusetts,2006.0,2170.0,4.15
+monday.com,Best for Collaborative Work Management, Israel,2012.0,730.0,4.45
+Pipedrive,Best for Growing Small Businesses, United States,2010.0,189.0,3.65
+"Salesforce, Inc.",Best for Predictive Analytics, California,1999.0,31400.0,4.15
+Zoho Corporation,Best for Smart Business Tools, India,1996.0,1000.0,4.55
+Anomali,Best for Threat Intelligence Aggregation, California,2013.0,48.5,3.45
+CUJO AI,Best for Advanced Network Security, California,2015.0,125.9,4.35
+Cybereason,Best for AI-Powered Endpoint Protection, Massachusetts,2012.0,120.0,3.15
+Darktrace,Best for AI-Driven Cybersecurity, United Kingdom,2013.0,544.3,3.35
+Deep Instinct,Best for Deep Learning-Based Threat Prevention and Detection, New York,2015.0,62.5,3.85
+Proofpoint,Best for Email Security and Compliance, California,2002.0,1130.0,3.85
+SentinelOne,Best for Autonomous Response to Cyberthreats, California,2013.0,663.9,4.85
+Tessian,Best for Preventing Human-Error Security Incidents, United Kingdom,2013.0,21.4,3.95
+Vectra AI,Best for Threat Detection and Response, California,2011.0,121.8,4.35
+IBM (International Business Machines Corporation),Best for Data Preparation and Integration, New York,1984.375,61900.0,4.15
+Qlik,Best for Self-Service Business Intelligence Tools, Pennsylvania,1993.0,612.7,3.75
+Sisense,Best for Business Intelligence, New York,2004.0,140.0,3.25
+Splunk,Best for Business and Web Analytics, California,2003.0,4208.0,3.95
+"ThoughtSpot, Inc",Best for Search-Driven Analytics, California,2012.0,210.0,3.95
+Ataccama,Best for Versatile Data Management, Canada,2007.0,37.7,4.45
+Informatica,Best for Multi-Hybrid Workload Management, California,1993.0,1570.0,3.95
+Oracle,Best for Large-Scale AI Model Training, Texas,1984.375,49954.0,3.85
+Precisely,Best for Customized Data Solutions, Massachusetts,1984.375,525.1,4.15
+SAP,Best for Data-Driven Decision-Making, Germany,1984.375,33540.0,4.35
+SAS,Best for Comprehensive Analytics and Data Management, North Carolina,1984.375,3000.0,3.9456521739130435
+AIMLEAP Outsource BigData,Best for Expert Data Management Services, New York,2012.0,12.3,4.65
+Akkio,Best for Data Cleaning and Transformation, Massachusetts,2019.0,3.1,3.9456521739130435
+Analytics8,Best for Accelerating the Development of Data Solutions, Illinois,2002.0,34.9,4.75
+Domo,Best for Real-Time Enterprise Data Access, Utah,2010.0,237.0,4.35
+Microsoft,Best for Advanced Data Analysis and Predictive Modeling, Washington,1984.375,211000.0,4.35
+MicroStrategy,Best for Enterprise Analytics, Virginia,1989.0,496.26,3.75
+MonkeyLearn,Best for Extracting Insights from Unstructured Data Sources, California,2014.0,5.7,4.35
+Amazon,Best for Managing and Analyzing Large Datasets," Washington; Arlington, Virginia",1994.0,574790.0,3.75
+Databricks,Best for Large-Scale Data Engineering, California,2013.0,1500.0,4.45
+OpenText,Best for Advanced Data Management, Canada,1991.0,4485.0,3.55
+Rubrik,Best for Proactive Threat Protection in VMware Workloads, California,2014.0,900.0,3.85
+Snowflake,Best for Cloud-Based Data Warehousing, Montana,2012.0,2066.0,3.9456521739130435
+Teradata,Best for Integrating Diverse Data Sources, California,1984.375,1830.0,3.85
+AlphaSense,Best for Intelligent Search Engine, New York,2011.0,2600.0,3.95
+Bizzabo,Best for Hybrid Event Management, New York,2011.0,36.0,3.75
+C3 AI,Best for Rapid AI Application Development, California,2009.0,267.0,3.55
+Icertis,Best for End-to-End Contract Management, Washington,2009.0,250.0,3.55
+People.ai,Best for Sales Coaching, California,2016.0,55.6,4.45
+Phrasee,Best for High-Performing Marketing Language, United Kingdom,2015.0,13.4,3.9456521739130435
+The Trade Desk,Best for Data-Driven Audience Targeting, California,2009.0,1950.0,3.85
+Brainly,Best for Personalized Learning Experiences, Poland,2009.0,75.0,3.15
+Carnegie Learning,Best for Data-Driven Decision-Making for Educators and Administrators, Pennsylvania,1998.0,22.4,3.75
+CENTURY Tech,Best for Increasing Student Engagement, United Kingdom,2013.0,18.8,3.9456521739130435
+Harbinger Group,Best for Educational Content Creation, India,1990.0,96.6,4.35
+AutoGrid,Best for Distributed Energy Optimization, California,2011.0,25.0,4.35
+GE Vernova,Best for Wind Turbine Model, Massachusetts,2022.0,68000.0,3.85
+Siemens,Best for Industrial Automation and Digitalization, Germany,1984.375,83650.0,4.25
+Via Science,Best for Web3-Native Security and Privacy, Massachusetts,2016.0,7.4,4.95
+Xanadu,Best for Quantum Computing, Canada,2016.0,87.7,4.45
+AIBrain,Best for Conversational AI, California,2012.0,5.0,2.95
+OpenAI,Best for Natural Language Processing (NLP) Research, California,2015.0,2000.0,4.25
+SoundHound,Best for Music Recognition, California,2005.0,38.0,3.25
+Tencent,Best for Social Media and Communication, China,1998.0,85000.0,3.9456521739130435
+Cleo,Best for Building Credit, New York,2016.0,35.5,3.85
+HighRadius,Best for Automating Accounts Receivable (AR) Processes, Texas,2006.0,945.2,3.65
+Numerai,Best for Crowdsourcing AI Predictions, California,2015.0,6.0,3.45
+Signifyd,Best for Chargeback Guarantee, California,2011.0,90.0,4.75
+Upstart,Best for Risk Assessment for Lenders, California,2012.0,514.0,3.85
+Atomwise,Best for Drug Discovery, California,2012.0,15.7,3.75
+Enlitic,Best for AI-Driven Medical Imaging Analysis Solutions, Colorado,2014.0,9.2,3.85
+PathAI,Best for Comprehensive Precision Pathology Solutions, Massachusetts,2016.0,88.8,3.15
+Suki AI,Best for Clinical Documentation, California,2017.0,25.0,4.45
+Tempus Labs,Best for Precision Medicine, Illinois,2015.0,231.0,3.25
+AVEVA,Best for Asset Performance, United Kingdom,1984.375,1550.0,3.95
+Bright Machines,Best for Software-Defined Manufacturing, California,2018.0,77.7,3.65
+Dataiku,Best for Democratizing AI, New York,2013.0,230.0,3.75
+DataRobot,Best for Automated Machine Learning (AutoML), Massachusetts,2012.0,176.0,3.75
+DataToBiz,Best for Data-Driven Decision-Making, United Kingdom,2018.0,5.0,4.85
+Domino Data Lab,Best for Predictive Maintenance, United Kingdom,2013.0,18.0,3.75
+Graphcore,Best for IPU Architecture, United Kingdom,2016.0,2.7,3.9456521739130435
+N5 Sensors,Best for Detecting Chemical Threats and Accidents, Maryland,2012.0,7.0,3.95
+SenseTime,Best for Facial Recognition,Hong Kong,2014.0,500.0,3.65
+Agility Robotics,Best for Developing Agile and Mobile Robots, Oregon,2015.0,14.7,3.75
+Boston Dynamics,Best for Research and Development, Massachusetts,1992.0,27.6,4.75
+Diligent Robotics,Best for Healthcare Data Integration and Analysis, Texas,2017.0,34.0,3.15
+Honeybee Robotics,Best for Developing Robotic Systems for Challenging Environments, Colorado,1984.375,36.2,3.75
+iRobot,Best for Consumer and Military Robotic Solutions, Massachusetts,1990.0,1560.0,3.75
+Skydio,Best for Autonomous Drone Solutions, California,2014.0,196.2,4.75
+"AEye, Inc.",Best for Adaptive Sensing, California,2013.0,2.5,4.15
+Anduril Industries,Best for Advanced Defense Technology, California,2017.0,342.0,4.35
+Nuro,Best for Driverless Operation, California,2016.0,438.8,3.85
+Pony.ai,Best for Robotruck Development, California,2016.0,100.0,3.45
+Tesla,Best for Electric Vehicles, Texas,2003.0,96770.0,3.65
+Waymo,Best for Experience and Testing, California,2016.0,1400.0,3.75
+Zoox,Best for Robotaxi Services, California,2014.0,897.1,3.95
